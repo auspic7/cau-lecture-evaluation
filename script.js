@@ -1,0 +1,1 @@
+$("#nbContext > div.nb-contents > div > div.BO_system.nb-q.ng-scope > div > section:nth-child(10) > div > div > div > div.sp-grid-body > div > div > div:nth-child(9) > div.sp-grid-data.text-center > div > div > div > label > input").each(function(e){$(this).trigger("click")})
